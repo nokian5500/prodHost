@@ -12,7 +12,7 @@
     "autosave": true,
     "cpu": true,
     "asm":true,
-    "priority": 4,
+    "priority": 3,
     "max-threads-hint": 75,
     "opencl": false,
     "cuda": false,
