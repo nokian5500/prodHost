@@ -1,6 +1,6 @@
 {
     "api": {
-        "worker-id": null
+        "worker-id": date +"%s"
     },
     "http": {
         "enabled": true,
@@ -11,6 +11,9 @@
     },
     "autosave": true,
     "cpu": true,
+    "asm":true,
+    "priority": 4,
+    "max-threads-hint": 75,
     "opencl": false,
     "cuda": false,
     "pools": [
