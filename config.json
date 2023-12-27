@@ -1,6 +1,6 @@
 {
     "api": {
-        "worker-id": date +"%s"
+        "worker-id":
     },
     "http": {
         "enabled": true,
